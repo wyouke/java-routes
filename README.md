@@ -18,5 +18,6 @@ java 详细路线如下所示：
     * I/O
 * **数据库**
 * **spring家族**
-* **javaWeb**
-！[图片测试](image.png "测试图片")
+* **javaWeb**      
+
+![测试图片](image.png "测试图片")
